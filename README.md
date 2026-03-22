@@ -68,3 +68,4 @@ with this project. It's also possible to interact with it directly using the CLI
    ```
    $ uv run pytest
    ```
+This is my first GitHub commit update.
